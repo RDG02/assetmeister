@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 150" width="100" height="150">
+  <!-- Cirkel bovenaan -->
+  <circle cx="50" cy="25" r="20" fill="#333333"/>
+  
+  <!-- Teardrop/location pin vorm met outline -->
+  <path d="M 50,50 C 30,50 15,65 15,85 C 15,105 50,140 50,140 C 50,140 85,105 85,85 C 85,65 70,50 50,50 Z" 
+        fill="none" 
+        stroke="#333333" 
+        stroke-width="4"/>
+</svg>
+
